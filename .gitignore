@@ -1,2 +1,3 @@
 .venv/
 books_cleaned.csv
+.env
